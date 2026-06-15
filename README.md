@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0075-sort-colors) |
+| [0389-find-the-difference](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
