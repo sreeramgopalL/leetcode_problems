@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
