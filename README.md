@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0392-is-subsequence) |
 ## Sorting
