@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0389-find-the-difference) |
 ## String
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0389-find-the-difference) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
