@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Search
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
