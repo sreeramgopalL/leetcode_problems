@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sreeramgopalL/leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0389-find-the-difference) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sreeramgopalL/leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/sreeramgopalL/leetcode_problems/tree/master/0196-delete-duplicate-emails) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sreeramgopalL/leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sreeramgopalL/leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
